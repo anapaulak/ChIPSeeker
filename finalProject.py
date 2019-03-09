@@ -13,11 +13,6 @@ class elegansEnrichment:
 	def __init__(self):
 		self.sequence = sequence
 
-
-
-
-
-
 	functions:
 	input of chromosone coordinates/summits OR filereader to read coordinates/summits
 
